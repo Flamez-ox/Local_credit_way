@@ -1,0 +1,1 @@
+[21-Jun-2023 10:48:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/hypexmjl/Credit_way/vendor/composer/platform_check.php on line 24
